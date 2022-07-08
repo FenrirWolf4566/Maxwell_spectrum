@@ -8,7 +8,13 @@ Le but était de montrer l'influence de la composition de l'Océan sur l'absorpt
 L'objectif était de faire un programme renvoyant un Triangle de Maxwell sur lequel serait indiqué par un point chaque composante de couleur de la photographie prise.
 
 Le but final étant de comparer les différences d'absorptions selon des milieux différents nous avons préparer plusieurs clichés fait dans des milieu différents : air, eau, eau salée, eau avec chlorophylle, eau salée avec chlorophylle.
-Image 1 : Spectre de Maxwell - Milieu Air
+
+![Spectre de Maxwell - Milieu Air](https://github.com/FenrirWolf4566/Maxwell_spectrum/tree/main/README/maxwell_spectrum_air.png)
+
+![Spectre de Maxwell - Milieu Eau](https://github.com/FenrirWolf4566/Maxwell_spectrum/tree/main/README/maxxell_spectrum_water.png)
+
+![Spectre de Maxwell - Milieu Eau Salée](https://github.com/FenrirWolf4566/Maxwell_spectrum/tree/main/README/maxxell_spectrum_salt_water.png)
+
 
 ## Utilisation
 Pour l'instant le programme maxwell_spectrum.py n'est utilisable que comme ceci :
