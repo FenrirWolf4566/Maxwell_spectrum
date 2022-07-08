@@ -9,11 +9,11 @@ L'objectif était de faire un programme renvoyant un Triangle de Maxwell sur leq
 
 Le but final étant de comparer les différences d'absorptions selon des milieux différents nous avons préparer plusieurs clichés fait dans des milieu différents : air, eau, eau salée, eau avec chlorophylle, eau salée avec chlorophylle.
 
-![Spectre de Maxwell - Milieu Air](https://github.com/FenrirWolf4566/Maxwell_spectrum/tree/main/README/maxwell_spectrum_air.png?raw=true "Spectre de Maxwell - Milieu Air")
+![Spectre de Maxwell - Milieu Air](https://user-images.githubusercontent.com/64831056/177938453-f8d6ecda-ec34-472a-b0f1-e16e89ce64c1.png "Spectre de Maxwell - Milieu Air")
 
-![Spectre de Maxwell - Milieu Eau](https://github.com/FenrirWolf4566/Maxwell_spectrum/tree/main/README/maxxell_spectrum_water.png?raw=true "Spectre de Maxwell - Milieu Eau")
+![Spectre de Maxwell - Milieu Eau](https://user-images.githubusercontent.com/64831056/177938531-0f763046-d5aa-4ff2-8ae1-04fef7fdc9a8.png "Spectre de Maxwell - Milieu Eau")
 
-![Spectre de Maxwell - Milieu Eau Salée](https://github.com/FenrirWolf4566/Maxwell_spectrum/tree/main/README/maxxell_spectrum_salt_water.png?raw=true "Spectre de Maxwell - Milieu Eau Salée")
+![Spectre de Maxwell - Milieu Eau Salée](https://user-images.githubusercontent.com/64831056/177938526-1e0cd06e-5cac-46ba-92c7-c63e61822fb9.png "Spectre de Maxwell - Milieu Eau Salée")
 
 Nous pouvons voir une grande différence suivant la composition du milieu !
 
